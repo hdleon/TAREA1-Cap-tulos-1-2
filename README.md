@@ -10,10 +10,35 @@
 - Reconocer los riesgos eléctricos y conocer procedimientos de seguridad
 
 # 2. MARCO TEÓRICO 
-- Unidad 1
+
+**- Unidad 1**
+
+![1 1 UNIDADES DE MEDICION](https://user-images.githubusercontent.com/116777118/201952619-91052d7b-b651-4dd2-9b8a-efae49d55e42.png)
+
+![1 2 NOTACIÓN CIENTÍFICA](https://user-images.githubusercontent.com/116777118/201952663-8a760fcd-9d27-4b64-b533-740ce3cb4196.png)
+
+![1–3 NOTACIÓN DE INGENIERÍA Y PREFIJOS MÉTRICOS](https://user-images.githubusercontent.com/116777118/201952709-1ef9f7b4-effe-4d27-8d34-c05e469cd3d8.png)
+
+![1 4 CONVERSIONES DE UNIDADES MÉTRICAS](https://user-images.githubusercontent.com/116777118/201952751-163627d0-2514-437e-a48a-347e7ae2ae3d.png)
 
 
-- Unidad 2
+**- Unidad 2**
+
+![2–1 ESTRUCTURA ATÓMICA](https://user-images.githubusercontent.com/116777118/201952803-a91236e3-4f05-4341-9d43-0694bb751929.png)
+
+![2–2 CARGA ELÉCTRICA](https://user-images.githubusercontent.com/116777118/201952839-43e31420-792b-4d83-8bd5-a32203d1213d.png)
+
+![2–3 VOLTAJE, CORRIENTE Y RESISTENCIA](https://user-images.githubusercontent.com/116777118/201952871-0d08479f-d39b-4710-8c0b-185651fa8f67.png)
+
+![2–4 FUENTES DE VOLTAJE Y DE CORRIENTE](https://user-images.githubusercontent.com/116777118/201952920-ef31bf38-e012-43da-8b53-e7595ad45fa8.png)
+
+![2–5 RESISTORES](https://user-images.githubusercontent.com/116777118/201952967-6a62a7f9-982e-495c-abf3-9b1556b22a80.png)
+
+![2–6 EL CIRCUITO ELÉCTRICO](https://user-images.githubusercontent.com/116777118/201953015-f91a1017-e0fa-4953-8154-3eba23802170.png)
+
+![2–7 MEDICIONES DE CIRCUITO BÁSICAS](https://user-images.githubusercontent.com/116777118/201953062-e9e4e366-0934-4d78-bfed-77034a8695c2.png)
+
+![2–8 SEGURIDAD ELÉCTRICA](https://user-images.githubusercontent.com/116777118/201953098-5fc3c849-63e5-49d8-860a-80de9e370a73.png)
 
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -77,29 +102,37 @@
 
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 
+![U2_1](https://user-images.githubusercontent.com/116777118/201956715-f6967fd5-6082-4b3d-8027-163175a03fff.jpg)
 
 3. ¿Cuántos coulombs de carga poseen 50×〖10〗^31 electrones?
 
+![U2_3](https://user-images.githubusercontent.com/116777118/201956765-2fd6526a-7abc-4b7a-9431-ac231f6f2811.jpg)
 
 -	SECCIÓN 2–3 Voltaje, corriente y resistencia
 
 5. Determine el voltaje en cada uno de los siguientes casos:
 
+![U2_5](https://user-images.githubusercontent.com/116777118/201956803-7396e5cb-7854-4a62-ab5d-009d005ef9cc.jpg)
 
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
 
+![U2_7](https://user-images.githubusercontent.com/116777118/201956956-16b374f1-acb1-4d11-8b15-d8188d3ecc0b.jpg)
 
 9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 
+![U2_9](https://user-images.githubusercontent.com/116777118/201957029-38d6c5fc-0f6e-406b-8d91-fafd5e7cc724.jpg)
 
 11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
 
+![U2_11](https://user-images.githubusercontent.com/116777118/201957086-c487fd61-cbd3-475a-9da3-8bf785873437.jpg)
 
 13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
 
+![U2_13](https://user-images.githubusercontent.com/116777118/201957137-04c26758-c6f3-4bf4-884a-0dabb0112f1a.jpg)
 
 15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
 
+![U2_15](https://user-images.githubusercontent.com/116777118/201957379-f6e1ee54-3634-46bc-9c7d-91c19fdd3e9d.jpg)
 
 - SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
@@ -166,6 +199,7 @@ Café=1, gris=8, rojo2, plata=10%;  1800 Ω 10% = 1.8 kΩ 10%
 
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
+![U2_31](https://user-images.githubusercontent.com/116777118/201957612-9fd86877-05e0-415a-a390-edb0e167292e.jpg)
 
 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
 
