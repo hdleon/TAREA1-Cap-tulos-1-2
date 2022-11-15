@@ -209,8 +209,7 @@ Café=1, gris=8, rojo2, plata=10%;  1800 Ω 10% = 1.8 kΩ 10%
 *(c) 9.76 kΩ:* blanco, violeta, azul, café, café
 
 29. ¿Cuál es la resistencia indicada por 4K7?
-
-4.7 kΩ
+La posicion de la letra indica donde va el punto decimal:4.7 kΩ 
 
  -  SECCIÓN 2–6 El circuito eléctrico
 
@@ -220,42 +219,35 @@ Café=1, gris=8, rojo2, plata=10%;  1800 Ω 10% = 1.8 kΩ 10%
 
 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
 
+![U2_33](https://user-images.githubusercontent.com/116777118/201971596-dfcab933-edb6-4d02-b0da-1a028a3a7aed.jpg)
+
 Circuito (b)
 
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue: VS1 conectada a R1 y VS2 conectada a R2 o VS1 conectada a R2 y VS2 conectada a R1
 
+![U2_35](https://user-images.githubusercontent.com/116777118/201971713-d67dcc55-b144-4909-ba4a-d1778e5f3cfc.jpg)
 
 - SECCIÓN 2–7 Mediciones de circuito básicas
 
 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
 
+![U2_37](https://user-images.githubusercontent.com/116777118/201971796-4242c0b7-f010-424f-8112-5406024285f6.jpg)
 
 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?¿En la posición 2?
 
+![U2_39](https://user-images.githubusercontent.com/116777118/201971853-3b47754e-bf5c-4aea-9e7b-71479b736f20.jpg)
 
-41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
+Cuando el  interruptor no conecta el circuito el V es igual a 0
 
+Posicion 1: V1=0V;  V2=Vs
+
+Posicion 2: V1=Vs; V2= 0V
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 
+![U2_43](https://user-images.githubusercontent.com/116777118/201972990-dd445513-7af1-4053-8551-5dbe347b1753.jpg)
 
-45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmímetro:
-
-(a) manecilla en 2, ajuste de intervalo en ×10
-
-(b) manecilla en 15, ajuste de intervalo en ×100,000
-
-(c) manecilla en 45, ajuste de intervalo en ×100
-
-47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
-
-(a) I1
-
-(b) V1
-
-(c) R1
-
-
+250 V
 
 # 4. VIDEO
 
@@ -267,4 +259,9 @@ Circuito (b)
 - En adicion mediante esta actividad se comprendio que es el voltaje, corriente y resistencia; y l amanera en la que se puede usar sus conceptos para poder determinar sus valores en un circuito electrico.
 
 # 6. BIBLIOGRAFÍA
+
+Canva. (2022). Recuperado el 15 de Noviembre de 2022, de Canva: https://www.canva.com/
+
+Floyd, T. (2007). Principios de Circuitos Electricos. Mexico.
+
 
