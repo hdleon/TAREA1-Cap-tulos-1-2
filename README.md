@@ -47,32 +47,41 @@
 
 2. Exprese cada número fraccionario en notación científica:
 
+![U1_1](https://user-images.githubusercontent.com/116777118/201961691-ecac7709-b30d-4e26-96a3-79fadd31ede7.jpg)
 
 4. Exprese cada uno de los números siguientes en notación científica:
 
+![U1_4](https://user-images.githubusercontent.com/116777118/201962511-1dceff41-5b26-4d02-a851-19fb5d086f28.jpg)
 
 6. Exprese cada uno de los números siguientes como un número decimal regular:
 
+![U1_6](https://user-images.githubusercontent.com/116777118/201962568-b32f0e58-6c22-4a3f-aad0-6a526c18e94f.jpg)
 
 8. Exprese cada número de los siguientes como un número decimal regular:
 
+![U1_8](https://user-images.githubusercontent.com/116777118/201962598-a5390757-a5e2-49bb-901e-13c31e504671.jpg)
 
 10. Efectúe las siguientes sustracciones
 
+![U1_10](https://user-images.githubusercontent.com/116777118/201961729-ea30e0ec-019d-40e5-a76a-59d88598daef.jpg)
 
 12. Realice las siguientes divisiones:
 
+![U1_12](https://user-images.githubusercontent.com/116777118/201961883-89a97f84-5529-43ea-aa9c-b41785836698.jpg)
 
 -  SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 
 14. Exprese cada número en notación de ingeniería:
 
+![U1_14](https://user-images.githubusercontent.com/116777118/201961957-ba9347f0-5b71-4604-bc6a-165900120c3a.jpg)
 
 16. Exprese cada número en notación de ingeniería:
 
+![U1_16](https://user-images.githubusercontent.com/116777118/201962035-146833b4-b705-4597-97ac-cbc62ea81237.jpg)
 
 18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
 
+![U1_18](https://user-images.githubusercontent.com/116777118/201962070-c646bd23-d024-4f39-be20-ff143ef5d5d2.jpg)
 
 20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
 
@@ -84,17 +93,25 @@
 
 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
 
+![U1_22](https://user-images.githubusercontent.com/116777118/201962146-0e87bca1-1cb4-457d-aab1-a635bf9a32d5.jpg)
+
+24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+
+![U1_24](https://user-images.githubusercontent.com/116777118/201962302-4522102b-788d-4683-9835-d7daba169a5c.jpg)
 
 26. Exprese cada cantidad en notación de ingeniería:
 
+![U1_26](https://user-images.githubusercontent.com/116777118/201962373-ca9c76fb-17b4-4861-96e5-d656abe1651b.jpg)
 
 - SECCIÓN 1–4 Conversiones de unidades métricas
 
 28. Determine lo siguiente:	
 
+![U1_28](https://user-images.githubusercontent.com/116777118/201962405-84e02f19-838b-4171-abbf-c99eae7ab2b7.jpg)
 
 30. Realice las siguientes operaciones: 
 
+![U1_30](https://user-images.githubusercontent.com/116777118/201962447-5b419117-e39c-4c74-9708-8b265b0c35eb.jpg)
 
 ## PROBLEMAS Unidad 2: Ejercicios impares ##
 
