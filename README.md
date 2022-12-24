@@ -1,5 +1,6 @@
 ## InformeTarea
 ## TAREA 1
+
 # 1. OBJETIVOS
 - Obtener conocimiento acerca de Cantidades y unidades, y de Voltaje, corriente y resistencia
 
